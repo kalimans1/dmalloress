@@ -1,6 +1,6 @@
 {
     "bot token": process.env.token,
-    "log channel id": "1254814971192147998",
+    "log channel id": "1239252497051287654",
     "bot prefix": ">",
     "site link": "https://discord.com/oauth2/authorize?client_id=1216103189116616834&redirect_uri=https://auth-bot-tj1g.onrender.com/auth&response_type=code&scope=identify%20guilds.join",
     "mention in dm": "yes",
